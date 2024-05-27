@@ -140,7 +140,7 @@ export function Home() {
                 className="2-full rounded-lg mb-2 max-h-72 hover:scale-105 transition-all"
                 src={car.images[0].url} 
                 alt="Carro" 
-                onLoad={ () => handleImageLoad(car.id)}s
+                onLoad={ () => handleImageLoad(car.id)}
                 style={{ display: loadImages.includes(car.id) ? "block" : "none"}}
               />
               <p className="font-bold mt-1 mb-2 px-2">{car.name}</p>

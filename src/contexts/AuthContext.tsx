@@ -49,7 +49,7 @@ function AuthProvider({ children }: AuthProviderProps) {
 
     }, [])
 
-    function handleInfoUser({ name, email, uid}): UserProps {
+    function handleInfoUser({ name, email, uid}: UserProps) {
         setUser({
             name,
             email,
