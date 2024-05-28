@@ -1,30 +1,63 @@
-# React + TypeScript + Vite
+# WebCarros
+# WebCarros é uma plataforma de e-commerce para compra e venda de carros, desenvolvida com React, TypeScript e Vite.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Funcionalidades
 
-Currently, two official plugins are available:
+Listagem de Carros: Veja todos os carros disponíveis para compra.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Detalhes do Carro: Informações detalhadas sobre cada carro.
 
-## Expanding the ESLint configuration
+Carrinho de Compras: Adicione e remova carros do seu Dashboard.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Finalização de Compra: Conclua a compra dos carros atravéz do whatsapp do anunciante.
 
-- Configure the top-level `parserOptions` property like this:
+Autenticação: Cadastro e login de usuários usando Firebase.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+Tecnologias Utilizadas
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Frontend: React, TypeScript, Vite
+
+Estilização: Tailwind CSS
+
+Gerenciamento de Estado: Context API
+
+Banco de Dados e Autenticação: Firebase
+
+Ferramentas de Desenvolvimento: ESLint para linting
+
+Pré-requisitos
+Node.js instalado
+npm ou yarn instalado
+
+Como Executar o Projeto
+
+Clone o repositório:
+
+git clone https://github.com/lucasgomesdacruz/webCarros.git
+
+Instale as dependências: npm install
+
+Execute o servidor de desenvolvimento: npm run dev
+
+Estrutura do Projeto
+
+public: Arquivos públicos
+
+src: Código fonte
+
+components: Componentes reutilizáveis
+
+pages: Páginas do aplicativo
+
+context: Contextos de estado para gerenciamento global
+
+styles: Estilos globais e configurações do Tailwind CSS
+
+Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Contato
+Para mais informações, entre em contato com Lucas Gomes da Cruz.
+
+Sinta-se à vontade para editar e expandir conforme necessário!
