@@ -1,17 +1,27 @@
-# WebCarros
-# WebCarros é uma plataforma de e-commerce para compra e venda de carros, desenvolvida com React, TypeScript e Vite.
+# WebCarros🚗
+## WebCarros é uma plataforma de e-commerce para compra e venda de carros, desenvolvida com React, TypeScript e Vite.
+![image](https://github.com/lucasgomesdacruz/webCarros/assets/112510742/da7d6cdc-b96e-4c2b-8e6a-1c46e0c89b05)
+
 
 ## Funcionalidades
 
-Listagem de Carros: Veja todos os carros disponíveis para compra.
+### Listagem de Carros: Veja todos os carros disponíveis para compra.
+![image](https://github.com/lucasgomesdacruz/webCarros/assets/112510742/7d56586f-0b0c-426a-a097-04284c04240b) 
 
-Detalhes do Carro: Informações detalhadas sobre cada carro.
+### Carrinho de Compras: Adicione e remova carros do seu Dashboard.
+![image](https://github.com/lucasgomesdacruz/webCarros/assets/112510742/fd9914e2-4a90-4e1a-9de7-bff7cce88804)
 
-Carrinho de Compras: Adicione e remova carros do seu Dashboard.
+### Detalhes do Carro: Informações detalhadas sobre cada carro.
+### Finalização de Compra: Conclua a compra dos carros atravéz do whatsapp do anunciante.
+![image](https://github.com/lucasgomesdacruz/webCarros/assets/112510742/77c767e9-cc29-42ce-9a77-f90e1470a830)
 
-Finalização de Compra: Conclua a compra dos carros atravéz do whatsapp do anunciante.
+### Autenticação: Cadastro e login de usuários usando Firebase.
+![image](https://github.com/lucasgomesdacruz/webCarros/assets/112510742/71efdb34-5e0f-46f3-8a96-a8a1cb60a520)
+![image](https://github.com/lucasgomesdacruz/webCarros/assets/112510742/3a729b8a-c89d-445c-aa8b-1dc288b2cbb4)
 
-Autenticação: Cadastro e login de usuários usando Firebase.
+
+
+
 
 Tecnologias Utilizadas
 
