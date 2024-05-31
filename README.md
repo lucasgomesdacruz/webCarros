@@ -1,7 +1,7 @@
 # 🚗 WebCarros
 ![image](https://github.com/lucasgomesdacruz/webCarros/assets/112510742/da7d6cdc-b96e-4c2b-8e6a-1c46e0c89b05)
 
-## 🔥 Introduçã
+## 🔥 Introdução
 WebCarros é uma plataforma de e-commerce para compra e venda de carros, desenvolvida com React, TypeScript e Vite.
 
 ## 🚀 Funcionalidades
