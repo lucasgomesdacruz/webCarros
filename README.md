@@ -1,14 +1,15 @@
-# WebCarros🚗
-## WebCarros é uma plataforma de e-commerce para compra e venda de carros, desenvolvida com React, TypeScript e Vite.
+# 🚗 WebCarros
 ![image](https://github.com/lucasgomesdacruz/webCarros/assets/112510742/da7d6cdc-b96e-4c2b-8e6a-1c46e0c89b05)
 
+## 🔥 Introduçã
+WebCarros é uma plataforma de e-commerce para compra e venda de carros, desenvolvida com React, TypeScript e Vite.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
 ### Listagem de Carros: Veja todos os carros disponíveis para compra.
 ![image](https://github.com/lucasgomesdacruz/webCarros/assets/112510742/7d56586f-0b0c-426a-a097-04284c04240b) 
 
-### Carrinho de Compras: Adicione e remova carros do seu Dashboard.
+### Adicione e remova carros do seu Dashboard.
 ![image](https://github.com/lucasgomesdacruz/webCarros/assets/112510742/fd9914e2-4a90-4e1a-9de7-bff7cce88804)
 
 ### Detalhes do Carro: Informações detalhadas sobre cada carro.
@@ -23,51 +24,45 @@
 
 
 
-Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
+• Frontend: React, TypeScript, Vite <br>
+• Estilização: Tailwind CSS <br>
+• Gerenciamento de Estado: Context API <br>
+• Banco de Dados e Autenticação: Firebase <br>
+• Ferramentas de Desenvolvimento: ESLint para linting <br>
 
-Frontend: React, TypeScript, Vite
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Estilização: Tailwind CSS
 
-Gerenciamento de Estado: Context API
 
-Banco de Dados e Autenticação: Firebase
 
-Ferramentas de Desenvolvimento: ESLint para linting
+### Pré-requisitos
+• Node.js instalado <br>
+• npm ou yarn instalado <br>
 
-Pré-requisitos
-Node.js instalado
-npm ou yarn instalado
+### 📁 Instalação e Uso:
+• Como Executar o Projeto <br>
+• Clone o repositório: <br>
+• git clone https://github.com/lucasgomesdacruz/webCarros.git <br>
+• Instale as dependências: npm install <br>
+• Execute o servidor de desenvolvimento: npm run dev <br>
 
-Como Executar o Projeto
+### Estrutura do Projeto
+• public: Arquivos públicos <br>
+• src: Código fonte <br>
+• components: Componentes reutilizáveis <br>
+• pages: Páginas do aplicativo <br>
+• context: Contextos de estado para gerenciamento global <br>
+• styles: Estilos globais e configurações do Tailwind CSS <br>
 
-Clone o repositório:
+### 📄 Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes. <br>
 
-git clone https://github.com/lucasgomesdacruz/webCarros.git
+### 👷 Autores
 
-Instale as dependências: npm install
+**Lucas Gomes - Front-End do projeto - [@LucasGomes](https://github.com/lucasgomesdacruz)**
 
-Execute o servidor de desenvolvimento: npm run dev
-
-Estrutura do Projeto
-
-public: Arquivos públicos
-
-src: Código fonte
-
-components: Componentes reutilizáveis
-
-pages: Páginas do aplicativo
-
-context: Contextos de estado para gerenciamento global
-
-styles: Estilos globais e configurações do Tailwind CSS
-
-Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Contato
-Para mais informações, entre em contato com Lucas Gomes da Cruz.
-
-Sinta-se à vontade para editar e expandir conforme necessário!
+### 💡 Expressões de gratidão
+**Link para o meu linkedin - [@LucasGomes](https://www.linkedin.com/in/lucaass1997)**
